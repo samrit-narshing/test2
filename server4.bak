@@ -20,7 +20,14 @@ change B
 
 changed A 
 
-AAAAAA
+<<<<<<< HEAD
+AAAAAAvvvvvvvvvvvv
+=======
+Adfdfd
+>>>>>>> dddd
 
 
 SERVER CHANGED A
+
+
+BBBBBB
