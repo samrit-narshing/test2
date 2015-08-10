@@ -20,3 +20,9 @@ change B
 
 changed A 
 
+
+<<<<<<< HEAD
+SERVER CHANGED A
+=======
+SERVER CHANGED B
+>>>>>>> added
