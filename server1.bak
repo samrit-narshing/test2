@@ -13,3 +13,10 @@ modified local2
 
 modifeid server2
 
+<<<<<<< HEAD
+
+
+Changed A
+=======
+Changed B
+>>>>>>> addedB
