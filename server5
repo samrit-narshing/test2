@@ -20,4 +20,9 @@ Changed A
 
 Changed B
 
+<<<<<<< HEAD
 Line B
+=======
+
+Line A
+>>>>>>> origin/master
