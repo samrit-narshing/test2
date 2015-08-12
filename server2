@@ -3,4 +3,8 @@ local 3
 
 server 3
 
+
 conflict A 2
+
+conflict B 2
+

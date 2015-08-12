@@ -3,3 +3,8 @@ local 3
 
 server 3
 
+<<<<<<< HEAD
+conflict A 2
+=======
+conflict B 2
+>>>>>>> multiple  B modified

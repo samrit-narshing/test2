@@ -30,3 +30,9 @@ night local
 
 night server
 
+
+<<<<<<< HEAD
+conflict A 1
+=======
+conflict B 1
+>>>>>>> multiple  B modified
