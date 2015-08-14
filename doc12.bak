@@ -17,3 +17,9 @@ unnecessary line
 
 
 unnecessary line2
+
+<<<<<<< HEAD
+unnecessary line4
+=======
+unnecessary line3
+>>>>>>> d92738f5c87e18ba53f1db13635b521053dd57d6
