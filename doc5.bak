@@ -7,6 +7,7 @@ new added by client
 new added from server
 
 
+<<<<<<< .merge_file_a09264
 
 git server 1
 
@@ -35,3 +36,7 @@ work1 work1 work1
 =======
 serverwork1serverwork1serverwork1serverwork1
 >>>>>>> 5b4dd6c57d5e6a9de42a354c646707e5ccee1745
+=======
+local added.
+
+>>>>>>> .merge_file_a03728
