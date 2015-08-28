@@ -1,0 +1,7 @@
+diff a/.gitignore.bak b/.gitignore.bak	(rejected hunks)
+@@ -1,4 +0,0 @@
+-log.log
+-.gitignore
+-
+-server5
+\ No newline at end of file
