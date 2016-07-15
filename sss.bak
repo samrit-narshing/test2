@@ -5,6 +5,14 @@ from client
 
 from server
 
+
+<<<<<<< HEAD
+from client II
+=======
+from server II 
+>>>>>>> origin
+
+
 https://github.com/samrit-narshing/test2
 
 
